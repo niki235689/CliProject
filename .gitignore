@@ -1,0 +1,10 @@
+# Служебные файлы Python и PyCharm
+__pycache__/
+*.py[cod]
+.idea/
+.venv/
+venv/
+
+# Артефакты и сгенерированные файлы
+*.png
+*.dot
