@@ -1,0 +1,8 @@
+{
+  "ROOT": ["CORE", "UTILS"],
+  "CORE": ["LOGGER", "MATH"],
+  "UTILS": ["LOGGER"],
+  "LOGGER": ["FS"],
+  "MATH": [],
+  "FS": []
+}
